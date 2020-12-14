@@ -1,0 +1,14 @@
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+html {
+    margin: 20px;
+}
+h2 {
+    margin-top: 50px;
+}
+p, h2 {
+    text-align: center;
+}

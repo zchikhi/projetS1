@@ -1,0 +1,13 @@
+/*Toutes les pages*/
+
+/* Mettre une couleur de fond */
+
+body {
+    background-color: black;
+}
+
+.fond-vert {
+    background-image: url("../../img/rect-vert.svg");
+}
+
+
