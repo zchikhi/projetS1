@@ -1,8 +1,3 @@
-img {
-    max-width: 100%;
-    height: auto;
-}
-
 body {
     background-image: url("../../img/fond-site.jpg");
     background-attachment: fixed;
@@ -12,8 +7,11 @@ body {
     background-color: black;
 }
 
-.fond-vert {
-    background-image: url("../../img/rect-vert.svg");
+.footer {
+    padding: 0;
+    background-color: #515151;
+    border-bottom-width: 0;
+    margin-bottom: 0;
 }
 
 
