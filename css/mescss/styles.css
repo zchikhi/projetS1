@@ -1,8 +1,14 @@
-/*Toutes les pages*/
-
-/* Mettre une couleur de fond */
+img {
+    max-width: 100%;
+    height: auto;
+}
 
 body {
+    background-image: url("../../img/fond-site.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
     background-color: black;
 }
 
